@@ -1,0 +1,13 @@
+# Unnesscary Files #
+######################
+node_modules
+
+# Enviroment specific files #
+#####################
+.env
+
+# IntelliJ project files #
+#########################
+.idea/*
+
+*.log
