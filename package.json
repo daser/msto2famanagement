@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Percayso-VS/msto2famanagement#readme",
   "dependencies": {
+    "request": "^2.83.0",
     "request-promise": "^4.2.2"
   }
 }
